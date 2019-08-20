@@ -6,8 +6,8 @@
 #### 以图说话
 |     |   |
 |  ----  | ----  |
-| ![](https://github.com/mmtou/haoting_music/demo/首页.png)  | ![](https://github.com/mmtou/haoting_music/demo/主题.png) |
-| ![](https://github.com/mmtou/haoting_music/demo/分享.png)  | ![](https://github.com/mmtou/haoting_music/demo/播放.png) |
+| ![](https://github.com/mmtou/haoting_music/blob/master/demo/首页.png)  | ![](https://github.com/mmtou/haoting_music/blob/master/demo/主题.png) |
+| ![](https://github.com/mmtou/haoting_music/blob/master/demo/分享.png)  | ![](https://github.com/mmtou/haoting_music/blob/master/demo/播放.png) |
 
 #### Flutter  
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
@@ -32,13 +32,13 @@ Flutter is Google’s UI toolkit for building beautiful, natively compiled appli
 
 #### 关键代码
   1. 安卓沉浸式状态栏
-  ![](https://github.com/mmtou/haoting_music/demo/c1.png)
+  ![](https://github.com/mmtou/haoting_music/blob/master/demo/c1.png)
 
   2. 禁止屏幕旋转
-  ![](https://github.com/mmtou/haoting_music/demo/c2.png)
+  ![](https://github.com/mmtou/haoting_music/blob/master/demo/c2.png)
 
   3. 底部导航栏+切换保留状态
-  ![](https://github.com/mmtou/haoting_music/demo/c3.png)
+  ![](https://github.com/mmtou/haoting_music/blob/master/demo/c3.png)
 
   4. 音乐播放进度
-  ![](https://github.com/mmtou/haoting_music/demo/c4.png)
+  ![](https://github.com/mmtou/haoting_music/blob/master/demo/c4.png)
